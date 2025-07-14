@@ -1,4 +1,4 @@
-# myapp
+# myapp - Recyclo
 
 A new Flutter project.
 
