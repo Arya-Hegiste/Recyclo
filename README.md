@@ -4,6 +4,11 @@
 
 ---
 
+## PPT : [Recycle Waste.pdf](https://github.com/user-attachments/files/21220910/Recycle.Waste.pdf)
+
+
+---
+
 ## 📲 Features
 
 - 📅 **Pickup Scheduling** – Book waste pickups from verified recyclers.
