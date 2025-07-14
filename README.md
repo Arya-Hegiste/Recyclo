@@ -1,16 +1,41 @@
-# myapp - Recyclo
+# ♻️ Waste Recycle App – Recyclo
 
-A new Flutter project.
+**Recyclo** is a mobile application that promotes sustainable living by making waste management smarter and more accessible. The app allows users to schedule waste pickups, classify recyclable items using AI, earn eco-points, and track their environmental impact — all from their mobile device.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📲 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 **Pickup Scheduling** – Book waste pickups from verified recyclers.
+- 🔍 **Waste Scanner** – Instantly identify recyclable waste using your camera.
+- 🌱 **Rewards** – Earn and redeem points for every responsible action.
+- 📊 **Impact Tracker** – Monitor your personal and community recycling stats.
+- 🌐 **Multi-language Support** – Designed for inclusivity with regional language options.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Future Phase: `SmartSort AI Phase` (Coming Soon)
+A powerful AI model for real-time waste categorization and advanced material recovery insights — currently under development.
+
+---
+
+## 📋 Menu Overview
+
+- **Home** – Quick access to stats, bookings & impact
+- **Recycle Now** – Schedule a pickup or locate drop-off points
+- **Rewards & Impact** – View your eco-points and sustainability dashboard
+
+---
+
+## 🏙️ Local Problem We Solve
+
+Cities face a growing challenge in managing solid waste due to poor recycling infrastructure and low public awareness. Our app bridges this gap by enabling people to recycle responsibly through convenience, education, and incentives — ultimately reducing landfill waste and promoting a circular economy.
+
+---
+
+## 💡 Tech Stack
+
+- **Frontend**: Flutter
+- **Backend**: Firebase
+
+---
