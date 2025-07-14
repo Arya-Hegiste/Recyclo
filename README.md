@@ -5,7 +5,18 @@
 ---
 
 ## PPT : [Recycle Waste.pdf](https://github.com/user-attachments/files/21220910/Recycle.Waste.pdf)
+## Firebase Studio : https://studio.firebase.google.com/recyclewaste-17168179
 
+---
+
+---
+
+## App UI : 
+<img width="282" height="473" alt="Screenshot 2025-07-05 145750" src="https://github.com/user-attachments/assets/91fcb6b0-7f2c-49dc-8c95-fc3cd0bbaa57" />
+<img width="277" height="466" alt="Screenshot 2025-07-05 183949" src="https://github.com/user-attachments/assets/e9c662b9-e5fa-4e31-9280-f2d95d1e5a68" />
+<img width="284" height="477" alt="Screenshot 2025-07-05 183935" src="https://github.com/user-attachments/assets/4e45b62a-cd73-4706-aad7-ede77ee2dfaf" />
+<img width="291" height="470" alt="Screenshot 2025-07-08 234304" src="https://github.com/user-attachments/assets/c09aca17-8656-435c-966c-479271d57ab1" />
+<img width="282" height="467" alt="Screenshot 2025-07-06 011046" src="https://github.com/user-attachments/assets/eee5e028-893a-409a-be60-0d415d77b66a" />
 
 ---
 
